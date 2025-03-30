@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -11,7 +12,7 @@ import Whoriskey.Leigh.React_Spring_api.model.Eligibility;
 import Whoriskey.Leigh.React_Spring_api.model.Product;
 import Whoriskey.Leigh.React_Spring_api.model.Service;
 
-
+@CrossOrigin(origins = "*")
 @RestController
 public class EligibilityController {
 

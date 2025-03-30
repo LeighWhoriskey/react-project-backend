@@ -3,10 +3,12 @@ package Whoriskey.Leigh.React_Spring_api.controller;
 import java.util.List;
 import java.util.Map;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import Whoriskey.Leigh.React_Spring_api.model.Member;
 
+@CrossOrigin(origins = "*")
 @RestController
 public class MemberController {
 
