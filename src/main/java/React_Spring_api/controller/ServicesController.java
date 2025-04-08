@@ -1,4 +1,4 @@
-package Whoriskey.Leigh.React_Spring_api.controller;
+package React_Spring_api.controller;
 
 import java.util.List;
 import java.util.Map;
@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import Whoriskey.Leigh.React_Spring_api.model.Service;
-
-@CrossOrigin(origins = "*")
+import React_Spring_api.model.Service;
 @RestController
 public class ServicesController {
 

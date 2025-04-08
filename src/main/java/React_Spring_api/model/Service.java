@@ -1,4 +1,4 @@
-package Whoriskey.Leigh.React_Spring_api.model;
+package React_Spring_api.model;
 
 public class Service {
     private final String id;
