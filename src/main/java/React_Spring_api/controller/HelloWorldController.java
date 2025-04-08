@@ -1,4 +1,4 @@
-package Whoriskey.Leigh.React_Spring_api.controller;
+package React_Spring_api.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

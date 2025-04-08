@@ -1,4 +1,4 @@
-package Whoriskey.Leigh.React_Spring_api;
+package React_Spring_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package Whoriskey.Leigh.React_Spring_api.model;
+package React_Spring_api.model;
 
 import java.util.List;
 

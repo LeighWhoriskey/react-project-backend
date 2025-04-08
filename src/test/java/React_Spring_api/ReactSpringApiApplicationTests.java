@@ -1,4 +1,4 @@
-package Whoriskey.Leigh.React_Spring_api;
+package React_Spring_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
